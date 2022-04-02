@@ -5,4 +5,7 @@ public class PracaWGrupie {
     //Żona mówi do męża:
     //- Wiesz, Zdzisiek, po raz pierwszy od 15 lat
     //wychodzimy gdzieś razem..
+
+    // Co zrobił Jezus na polu marchwi?
+    // Zmarchwiwstał HEHE :D
 }
