@@ -10,4 +10,6 @@ public class PracaWGrupie {
     // Zmarchwiwstał HEHE :D
 
     // Odwracamy sytuacje
+
+    //Dobrze im tak - powiedział ksiądz proboszcz, wracając po ślubie z kościoła.
 }
