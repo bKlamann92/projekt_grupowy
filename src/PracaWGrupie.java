@@ -8,4 +8,6 @@ public class PracaWGrupie {
 
     // Co zrobił Jezus na polu marchwi?
     // Zmarchwiwstał HEHE :D
+
+    //Dobrze im tak - powiedział ksiądz proboszcz, wracając po ślubie z kościoła.
 }
